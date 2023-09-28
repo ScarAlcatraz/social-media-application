@@ -1,6 +1,6 @@
 # Social Media Web Application (MERN)
 
-![App Demo](demo.gif) <!-- Add a GIF or screenshot of your app here -->
+![App Screenshot](⁀➷ive.png) <!-- Add a GIF or screenshot of your app here -->
 
 ## Table of Contents
 
