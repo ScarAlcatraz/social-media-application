@@ -40,7 +40,8 @@ This is a basic social media web application built using the MERN (MongoDB, Expr
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/basic-social-media-app.git
+   git clone https://github.com/ScarAlcatraz/social-media-application.git
+   
 
 2. Navigate to the project directory:
 
